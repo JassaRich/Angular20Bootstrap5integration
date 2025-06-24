@@ -6,5 +6,5 @@ Angular 20 + Bootstrap 5 Admin Template Integration Tutorial | Responsive Dashbo
 Guys we just need to run below commands:<br>
 
 # npm i
-<br>
+
 # ng serve
